@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bac0405b5139bf5639ca",
-    "url": "/TextForm/static/css/main.80dbcf31.chunk.css"
+    "revision": "981ae514bacae3673b07",
+    "url": "/TextForm/static/css/main.2a64cbd4.chunk.css"
   },
   {
-    "revision": "bac0405b5139bf5639ca",
-    "url": "/TextForm/static/js/main.dc963d47.chunk.js"
+    "revision": "981ae514bacae3673b07",
+    "url": "/TextForm/static/js/main.3bf05aeb.chunk.js"
   },
   {
     "revision": "e101851332dfa0f95a29",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/TextForm/static/js/3.398cb210.chunk.js"
   },
   {
-    "revision": "92b7f6aa03a08cf63d4687b37f09e653",
+    "revision": "f48d6d241f07fa5c070afa5a5180932e",
     "url": "/TextForm/index.html"
   }
 ];

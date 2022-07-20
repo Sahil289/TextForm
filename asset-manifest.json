@@ -1,7 +1,7 @@
 {
-  "main.css": "/TextForm/static/css/main.80dbcf31.chunk.css",
-  "main.js": "/TextForm/static/js/main.dc963d47.chunk.js",
-  "main.js.map": "/TextForm/static/js/main.dc963d47.chunk.js.map",
+  "main.css": "/TextForm/static/css/main.2a64cbd4.chunk.css",
+  "main.js": "/TextForm/static/js/main.3bf05aeb.chunk.js",
+  "main.js.map": "/TextForm/static/js/main.3bf05aeb.chunk.js.map",
   "runtime~main.js": "/TextForm/static/js/runtime~main.7eaf80ed.js",
   "runtime~main.js.map": "/TextForm/static/js/runtime~main.7eaf80ed.js.map",
   "static/js/2.f63325ab.chunk.js": "/TextForm/static/js/2.f63325ab.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.398cb210.chunk.js": "/TextForm/static/js/3.398cb210.chunk.js",
   "static/js/3.398cb210.chunk.js.map": "/TextForm/static/js/3.398cb210.chunk.js.map",
   "index.html": "/TextForm/index.html",
-  "precache-manifest.0a6f10bd623e80ff355023e9d1955bd0.js": "/TextForm/precache-manifest.0a6f10bd623e80ff355023e9d1955bd0.js",
+  "precache-manifest.b7a0a5f3eec91ea74d7dca249f90e462.js": "/TextForm/precache-manifest.b7a0a5f3eec91ea74d7dca249f90e462.js",
   "service-worker.js": "/TextForm/service-worker.js",
-  "static/css/main.80dbcf31.chunk.css.map": "/TextForm/static/css/main.80dbcf31.chunk.css.map"
+  "static/css/main.2a64cbd4.chunk.css.map": "/TextForm/static/css/main.2a64cbd4.chunk.css.map"
 }
